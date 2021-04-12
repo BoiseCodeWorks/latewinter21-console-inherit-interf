@@ -1,0 +1,16 @@
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\bin\Debug\net5.0\latewinter21-inhteritance-interfaces.exe
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\bin\Debug\net5.0\latewinter21-inhteritance-interfaces.deps.json
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\bin\Debug\net5.0\latewinter21-inhteritance-interfaces.runtimeconfig.json
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\bin\Debug\net5.0\latewinter21-inhteritance-interfaces.runtimeconfig.dev.json
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\bin\Debug\net5.0\latewinter21-inhteritance-interfaces.dll
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\bin\Debug\net5.0\ref\latewinter21-inhteritance-interfaces.dll
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\bin\Debug\net5.0\latewinter21-inhteritance-interfaces.pdb
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.csprojAssemblyReference.cache
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.AssemblyInfoInputs.cache
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.AssemblyInfo.cs
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.csproj.CoreCompileInputs.cache
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.dll
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\ref\latewinter21-inhteritance-interfaces.dll
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.pdb
+C:\source\codeworks\latewinter21\csharp\latewinter21-inhteritance-interfaces\obj\Debug\net5.0\latewinter21-inhteritance-interfaces.genruntimeconfig.cache
